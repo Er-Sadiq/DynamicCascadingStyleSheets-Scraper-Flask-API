@@ -34,7 +34,8 @@ flask run / App.py
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-10-12 123229](https://github.com/user-attachments/assets/65fba24d-2036-4c42-b114-8be77e96fc2d)
+
 
 
 ## Tech Stack 
