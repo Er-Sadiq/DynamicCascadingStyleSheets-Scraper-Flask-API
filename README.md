@@ -43,3 +43,7 @@ flask run / App.py
 - Web Framework: Flask
 - Browser Automation: Selenium with Firefox
 - LLM Integration: OpenAI GPT
+
+For any questions or issues, feel free to contact:
+
+📧 sadiqkhan.2503@gmail.com
